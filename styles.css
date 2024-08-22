@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+#app {
+    text-align: center;
+}
+
+#pokemon-info div {
+    margin: 5px 0;
+}
+
+#sprite {
+    margin-top: 10px;
+    max-width: 150px;
+    max-height: 150px;
+}
